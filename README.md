@@ -8,3 +8,6 @@ Pytorch PoseNet implementation based on paper PoseNet: A Convolutional Network f
 ## Files
 - experiments_unclean contains unstructured code used during experiments
 - main contains structured code, PoseNet class, and usage example
+
+## Notes
+Both experiments and model were created & tested in Google Colab, so it's likely that some changes needed to run this code locally (at least in data paths)
